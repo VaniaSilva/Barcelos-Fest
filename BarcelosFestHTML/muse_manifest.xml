@@ -1,0 +1,52 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="barcelosfest.com" resolutions="1x" timestamp="1515095307263">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-mestre.css" crc="4294755848" ref="index"/>
+    <file name="artistas.css" crc="306839909" ref="artistas"/>
+    <file name="recinto.css" crc="71800929" ref="recinto"/>
+    <file name="index.css" crc="4178310104" ref="index"/>
+    <file name="album.css" crc="82213500" ref="album"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:artistas:album:recinto"/>
+    <file name="museutils.js" crc="163421577" ref="index:artistas:album:recinto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:artistas:album:recinto"/>
+    <file name="museconfig.js" crc="36584860" ref="index:artistas:album:recinto"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u261.php" crc="14318300" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:artistas:album:recinto"/>
+    <file name="require.js" crc="244322403" ref="index:artistas:album:recinto"/>
+  </folder>
+  <folder name="images">
+    <file name="fundo.jpg" crc="4138881457" seo="true" ref="index"/>
+    <file name="u183-4.png" crc="172935521" ref="index"/>
+    <file name="u186-4.png" crc="66933333" ref="index"/>
+    <file name="u189-4.png" crc="4246229248" ref="index"/>
+    <file name="user-image-with-black-background-crop-u110-crop-u193.png" crc="517367045" ref="index"/>
+    <file name="mail.png" crc="4085517906" seo="true" ref="index"/>
+    <file name="key.png" crc="400195135" seo="true" ref="index"/>
+    <file name="galo-crop-u251.png" crc="4166634864" ref="index"/>
+    <file name="artistasfundo.jpg" crc="3900767799" seo="true" ref="artistas"/>
+    <file name="botao.png" crc="4033966828" seo="true" ref="artistas:album:recinto"/>
+    <file name="u588-4.png" crc="491738912" ref="artistas"/>
+    <file name="u651-6.png" crc="425584028" ref="artistas"/>
+    <file name="u654-4.png" crc="4191470099" ref="artistas"/>
+    <file name="u655-6.png" crc="4169764755" ref="artistas"/>
+    <file name="u660-4.png" crc="4148984906" ref="artistas"/>
+    <file name="u661-6.png" crc="506175748" ref="artistas"/>
+    <file name="albumfundo.jpg" crc="4232746359" seo="true" ref="album"/>
+    <file name="u666-7.png" crc="400692977" ref="album"/>
+    <file name="u670-7.png" crc="19054170" ref="album"/>
+    <file name="icon.png" crc="344708571" seo="true" ref="album"/>
+    <file name="recintofundo.jpg" crc="4140718581" seo="true" ref="recinto"/>
+    <file name="mapa.jpg" crc="4058500042" seo="true" ref="recinto"/>
+    <file name="zoom-in.png" crc="63440582" seo="true" ref="recinto"/>
+  </folder>
+  <file name="index.html" crc="3853389636" seo="true" mt="1515068530448" redirect="true"/>
+  <file name="artistas.html" crc="4212265364" seo="true" mt="1515094965798" redirect="true"/>
+  <file name="album.html" crc="3990441175" seo="true" mt="1515095178677" redirect="true"/>
+  <file name="recinto.html" crc="3832525102" seo="true" mt="1515094461545" redirect="true"/>
+</manifest>
