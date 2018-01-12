@@ -1,0 +1,53 @@
+body{
+  background-image: url('img/header.jpg');
+  height: 100%!important;
+}
+@media (min-width: 992px){
+  header.masthead {
+      min-height: 650px;
+      padding-top: 0;
+      padding-bottom: 0;
+  }
+}
+
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+
+}
+
+ul.menu a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 50px;
+}
+.img-fluid{
+  height: 80% !important;
+  width: 100%!important;
+  padding-top: 20px;
+}
+
+.div-footer{
+    width: 100%;
+    height:auto;
+    margin: auto;
+    padding: 10px;
+}
+
+.first {
+    background: white;
+    width: 50%;
+    float:left;
+
+}
+.second {
+  background: white;
+    margin-left:50%;
+    width: 50%;
+}
