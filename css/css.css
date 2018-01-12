@@ -1,0 +1,146 @@
+body{
+  background-image: url('img/header.jpg');
+  height: 100%!important;
+}
+@media (min-width: 992px){
+  header.masthead {
+      min-height: 758px;
+      padding-top: 0;
+      padding-bottom: 0;
+  }
+}
+/* --- MENU --- */
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+
+
+}
+ul.menu1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+
+}
+ul.menu a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+ul.menu1 a {
+    display: block;
+    color: #ffb380;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 30px;
+}
+/* --- FIM MENU --- */
+
+/* --- Index --- */
+.im{
+  height: 150px;
+  width: 150px;
+}
+.use{
+  height: 20px;
+  width: 20px;
+}
+::-webkit-input-placeholder {
+   color: white;
+}
+
+.user{
+  padding: 6px 12px;
+  font-size: 14px;
+  color: white;
+  background-color: transparent;
+  border: 1px solid transparent;
+  outline: 0;
+  border-bottom-color:white;
+}
+.pass{
+  padding: 6px 12px;
+  font-size: 14px;
+  color: white;
+  background-color: transparent;
+  border: 1px solid transparent;
+  outline: 0;
+  border-bottom-color:white;
+}
+.logReg{
+  background-color: transparent;
+  border: 0px;
+  color: white;
+  outline: 0;
+}
+
+.div-footer{
+    width: 100%;
+    height:auto;
+    margin: auto;
+    padding:350px;
+}
+
+.first {
+    background: white;
+    width: 100%;
+    float:left;
+
+}
+.second {
+  background: white;
+    margin-left:50%;
+    width: 100%;
+}
+/* --- FIM Index --- */
+
+/* --- Bilheteira --- */
+ul.bil {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+ul.bil h1 {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+}
+.contb{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+/* --- FIM Bilheteira --- */
+
+/* --- Cartaz --- */
+ul.car {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+ul.car h1 {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+}
+.cart{
+    padding-left: 150px;
+    padding-right: 400px;"
+}
+/* --- FIM Cartaz --- */
